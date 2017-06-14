@@ -18,7 +18,7 @@ ul{
 
 header{
 	/*background: #35424a;*/
-	background: #009900;
+	background: #66ff99;
 	color:#ffffff;
 	padding-top: 30px;
 	min-height: 70px;
@@ -60,7 +60,7 @@ header a:hover {
 
 #showcase {
 	min-height: 400px;
-	background-image: url('../images/nutricao.jpg') no-repeat 0px -400px;
+	background: url('../images/nutricao.jpg') no-repeat 0px -400px;
 	text-align: center;
 	color: #000;
 }
